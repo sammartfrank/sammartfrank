@@ -2,7 +2,7 @@
 
 ### Greetings, my name is Franco and I am a believer of comitting fully to your goals.. 👋
 
- - 🔭 I’m currently working on Javascript projects. Thriving to provide the right answer to the different scenarios I come up with.
+ - 🔭 I’m currently working on Javascript and Python projects. Thriving to provide the right answer to the different scenarios I come up with.
  
  ![Coding](https://hackernoon.com/hn-images/1*KbC-gUATfgCAHLos0n-Bqg.gif)
 
