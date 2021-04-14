@@ -19,6 +19,9 @@
  
  ### Ideas
  - 👯 Providing the right answers to the perpetual shift of needs society has, is an art itself. We as humans have to find a proper way to address our interaction with technology throught the right debates. Front end has quite a responsability in being constantly adapting to the users eyes in a well designed way. Provided the right tools, the process should enhance the user experience.
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sammartfrank)](https://github.com/anuraghazra/github-readme-stats)
  
  
  ### Upcoming..
